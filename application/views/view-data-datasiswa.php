@@ -8,12 +8,12 @@
      <center>
         <table>
             <tr>
-                <th colspan="3">
+                <th colspan="8">
                 Tampil Data Siswa
             </th>
         </tr>
         <tr>
-            <td colspan="3">
+            <td colspan="8">
                 <hr>
             </td>
         </tr>
